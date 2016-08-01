@@ -15,7 +15,9 @@
     "most": "0.18.x",
     "ramda": "0.19.x",
     "righto": "0.3.x",
-    "sanctuary": "0.9.x"
+    "sanctuary": "0.9.x",
+    "split": "^1.0.0",
+    "through2-parallel": "^0.1.3"
   },
   "devDependencies": {
     "babel": "5.x.x"
